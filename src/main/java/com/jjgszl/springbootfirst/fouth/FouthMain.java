@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.context.ConfigurableApplicationContext;
 
 
-@SpringBootApplication
+//@SpringBootApplication
 public class FouthMain {
     public static void main(String[] args) {
         ConfigurableApplicationContext configurableApplicationContext = SpringApplication.run(FouthMain.class);
